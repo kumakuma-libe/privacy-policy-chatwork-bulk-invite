@@ -1,6 +1,6 @@
-# Privacy Policy - Chatwork 一括招待
+# Privacy Policy - 一括招待・退室くん for Chatwork
 
-Chrome 拡張機能「Chatwork 一括招待」のプライバシーポリシーを GitHub Pages で公開するリポジトリ。
+Chrome 拡張機能「一括招待・退室くん for Chatwork」のプライバシーポリシーを GitHub Pages で公開するリポジトリ。
 
 ## 公開 URL（GitHub Pages 有効化後）
 
